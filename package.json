@@ -9,7 +9,7 @@
   "devDependencies": {
     "@types/react": "16.8.4",
     "eslint": "7",
-    "eslint-plugin-react": "^7.28.0",
+    "eslint-plugin-react": "https://github.com/niik/eslint-plugin-react#no-unused-prop-types-ts-4-5",
     "typescript": "^4.5.5"
   },
   "dependencies": {
